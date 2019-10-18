@@ -18,9 +18,9 @@ Please see the Appendix for links to the files.
 UI Example
 ========================================================
 
-![Caption](gapminder_using_shiny_1)
+![Caption](https://github.com/nihathalici/Developing-Data-Products-course--Assignment-Week-4-Shiny-Application-and-Reproducible-Pitch/blob/master/gapminder_using_shiny_1.PNG)
 
-![Caption](gapminder_using_shiny_2)
+![Caption](https://github.com/nihathalici/Developing-Data-Products-course--Assignment-Week-4-Shiny-Application-and-Reproducible-Pitch/blob/master/gapminder_using_shiny_2.PNG)
 
 server.R
 ========================================================
