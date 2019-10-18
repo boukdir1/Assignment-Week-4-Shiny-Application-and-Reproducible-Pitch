@@ -145,5 +145,5 @@ Links and Appendix
 ========================================================
 
 - Shiny app: https://halici.shinyapps.io/Gapminder-Data-Visualization-using-Shiny-and-Plotly/
-- Source Code: 
+- Source Code: https://github.com/nihathalici/Developing-Data-Products-course--Assignment-Week-4-Shiny-Application-and-Reproducible-Pitch/tree/master/Shiny 
 - Presentation is available via RPubs: 
