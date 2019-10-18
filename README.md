@@ -1,10 +1,6 @@
 Developing Data Products: Course Project
 ========================================================
  
-date: 18.10.2019
-autosize: true
-width: 1600
-height: 900
 
 Introduction and Overview
 ========================================================
