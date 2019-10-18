@@ -20,7 +20,7 @@ UI Example
 
 ![Caption](ui_example.png)
 
-Server.R
+server.R
 ========================================================
 
 
