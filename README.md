@@ -18,7 +18,9 @@ Please see the Appendix for links to the files.
 UI Example
 ========================================================
 
-![Caption](ui_example.png)
+![Caption](gapminder_using_shiny_1)
+
+![Caption](gapminder_using_shiny_2)
 
 server.R
 ========================================================
