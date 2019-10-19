@@ -73,16 +73,12 @@ server <- function(input, output) {
             p <- ggplot(data, aes(gdpPercap, lifeExp)) +
                 geom_point(size = input$size, col = input$color) +
                 scale_x_log10() +
-                ggtitle(input$title) + 
+                ggtitle(input$title) 
                 
-            
-            if (input$fit) {
-                p <- p + geom_smooth(method = "lm")
-            }
             p
         })
     })
-    }
+}
 ```
 
 ui.R
