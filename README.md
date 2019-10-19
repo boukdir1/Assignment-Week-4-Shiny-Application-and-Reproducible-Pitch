@@ -105,7 +105,6 @@ ui <- fluidPage(
             # Input: Select the random distribution type ----
             textInput("title", "Title", "GDP vs life exp"),
             numericInput("size", "Point size", 1, 1),
-            checkboxInput("fit", "Add line of best fit", FALSE),
             colourInput("color", "Point color", value = "blue"),
 
             
@@ -115,6 +114,7 @@ ui <- fluidPage(
             sliderInput(inputId = "life", label = "Life expectancy",
                         min = 0, max = 120,
                         value = c(30, 50)),
+            
             downloadButton("download_data")
             
             
